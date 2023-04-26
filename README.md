@@ -31,7 +31,7 @@ Reg No      : 212221230050
 
 # Read image and convert it to grayscale image
 
-image = cv2.imread('lanes.jpg')
+image = cv2.imread('image1.jpg')
 gimage = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 cv2.imshow('Converted Image', gimage)
