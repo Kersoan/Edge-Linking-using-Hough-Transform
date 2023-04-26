@@ -69,15 +69,15 @@ cv2.destroyAllWindows()
 ## Output
 
 ### Input image and grayscale image
-![](lanes.jpg)
-![](gray.png)
+![](image1.jpg)
+![](image2.jpg)
 
 ### Canny Edge detector output
-![](can.png)
+![](image3.png)
 
 
 ### Display the result of Hough transform
-![](Hou.png)
+![](image4.jpg)
 
 
 
