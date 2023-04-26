@@ -1,4 +1,4 @@
-# Edge-Linking-using-Hough-Transform
+# EX-08-Edge-Linking-using-Hough-Transform
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
@@ -24,8 +24,8 @@ Apply hough transform and show the detected edge on the original image
 
 ## Program:
 ```
-Developed By: Pranave B
-Reg No      : 212221240040
+Developed By: Kersoan P
+Reg No      : 212221230050
 ```
 ```Python
 
